@@ -1,3 +1,16 @@
 # Hello Friends👋
-## This project hosted from 2023 sswu software competition
-## This project is used in the Cloud Computing subject
+
+## 👋 소개
+이 프로젝트는 2023-2 성신여대 컴퓨터공학과 전공과목 <클라우드 컴퓨팅>에서 진행됩니다
+
+## 💬 규칙
+### 1. branch naming: type/이슈번호-이슈목적 <br>
+|type|이모지|설명|
+|------|:------:|------|
+|main|💡|최종 브랜치|
+|hotfix|🔥|긴급 수정|
+|feat|✨|기능 추가|
+|fix|👩‍🔧|오류로 인한 기능 수정|
+|refactor|♻️|코드 리팩토링|
+|docs|✍️|문서 추가/수정|
+
