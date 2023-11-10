@@ -5,6 +5,7 @@
 
 ## 💬 규칙
 ### 1. branch naming: type/이슈번호-이슈목적 <br>
+
 |type|이모지|설명|
 |------|:------:|------|
 |main|💡|최종 브랜치|
@@ -13,4 +14,8 @@
 |fix|👩‍🔧|오류로 인한 기능 수정|
 |refactor|♻️|코드 리팩토링|
 |docs|✍️|문서 추가/수정|
+
+### 2. commit convention: $git commit -m "type: 설명 #{이슈번호}"
+
+
 
